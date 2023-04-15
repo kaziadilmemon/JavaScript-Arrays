@@ -42,3 +42,4 @@ console.log(deletedvalues)
 // slice() : This method slices out a piece from an array. it creates a new Array.
 let newnum=num.slice(3,5)
 console.log(newnum)
+
