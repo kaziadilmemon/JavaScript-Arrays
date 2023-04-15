@@ -19,3 +19,4 @@ const reducefunc =(h1,h2)=>{
 }
 let newarr3=arr3.reduce(reducefunc)
 console.log(newarr3)
+
